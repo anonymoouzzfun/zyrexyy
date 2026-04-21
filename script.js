@@ -330,9 +330,9 @@ startScreen.addEventListener('click', async () => {
     "Fu*k Guns.lol & Fakecrime.bio ",
     "\"Hello this is snow\""
   ];
-  let bioText = '';
-  let bioIndex = 0;
-  let bioMessageIndex = 0;
+  let bioText = 'click if you larp funds';
+  let bioIndex = 1;
+  let bioMessageIndex = 1;
   let isBioDeleting = false;
   let bioCursorVisible = true;
 
@@ -751,7 +751,7 @@ startScreen.addEventListener('click', async () => {
 
   async function fetchDiscordActivity() {
     try {
-      const res = await fetch(`https://api.lanyard.rest/v1/users/1255568617823670282`);
+      const res = await fetch(`https://api.lanyard.rest/v1/users/1489625024410157267`);
       
       if (!res.ok) {
         throw new Error(`API request failed with status ${res.status}`);
