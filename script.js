@@ -327,8 +327,8 @@ startScreen.addEventListener('click', async () => {
   }, 500);
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio ",
-    "\"Hello this is snow\""
+    "hi im zyrex",
+    "\"purple\""
   ];
   let bioText = 'click if you larp funds';
   let bioIndex = 1;
