@@ -293,7 +293,7 @@ startScreen.addEventListener('click', async () => {
     typeWriterBio();
   });
 
-  const name = "snow";
+  const name = "zyrex";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
