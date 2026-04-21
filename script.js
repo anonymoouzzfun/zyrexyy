@@ -41,7 +41,7 @@ function initMedia() {
 }
 
 function animateTitle() {
-    const title = "Snow";
+    const title = "zyrex";
     let currentTitle = "";
     let index = 0;
     let isDeleting = false;
