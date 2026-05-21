@@ -328,7 +328,7 @@ startScreen.addEventListener('click', async () => {
 
   const bioMessages = [
     "hi im zyrex",
-    "\"purple\""
+    "\"pro thy hood content creator\""
   ];
   let bioText = 'click if you larp funds';
   let bioIndex = 1;
